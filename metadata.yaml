@@ -1,0 +1,43 @@
+_repo: Samuel-Titmarsh-Tarina-isosta-Hoggartyn-timantista_52432
+_version: 0.0.1
+alternative_title: The history of Samuel Titmarsh and the great Hoggarty diamond.
+  Finnish
+contributor:
+  translator:
+    agent_name: Impiwaara, Heikki
+    alias: Impivaara, Heikki
+    birthdate: 1876
+    deathdate: 1964
+    gutenberg_agent_id: '46854'
+    url: http://www.gutenberg.org/2009/agents/46854
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_Impiwaara
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Titmarsh, Michael Angelo
+    - Thackeray, W. M.
+    - Titmarsh, M. A.
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: ''
+gutenberg_issued: '2016-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52432'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+- !lcsh 'English fiction -- Translations into Finnish'
+- GITenberg
+title: 'Samuel Titmarsh: Tarina isosta Hoggartyn timantista'
+url: http://www.gutenberg.org/ebooks/52432
