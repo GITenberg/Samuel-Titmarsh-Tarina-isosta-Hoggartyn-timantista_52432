@@ -1,5 +1,5 @@
 _repo: Samuel-Titmarsh-Tarina-isosta-Hoggartyn-timantista_52432
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The history of Samuel Titmarsh and the great Hoggarty diamond.
   Finnish
 contributor:
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '46854'
     url: http://www.gutenberg.org/2009/agents/46854
     wikipedia: https://fi.wikipedia.org/wiki/Heikki_Impiwaara
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -26,6 +29,8 @@ creator:
     - http://www.victorianweb.org/authors/wmt/wmtov.html
     - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52432#Samuel-Titmarsh-Tarina-isosta-Hoggartyn-timantista
 gutenberg_issued: '2016-06-29'
 gutenberg_type: Text
 identifiers:
